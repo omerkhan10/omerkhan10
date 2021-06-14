@@ -1,5 +1,11 @@
-### Hi there 👋
+## My Public Statistics
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerkhan10&count_private=true&show_icons=true&theme=tokyonight)
 
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerkhan10)](https://github.com/omerkhan10/github-readme-stats)
+
+## Weekly Wakatime Stats
+[![Omer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omerkhan10)](https://github.com/omerkhan10/github-readme-stats)
 <!--
 **omerkhan10/omerkhan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Hi there 👋
 -->
